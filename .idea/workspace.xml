@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66943832-ad8d-4516-bbee-e2a50a3aab17" name="Changes" comment="excercise 13082024" />
+    <list default="true" id="66943832-ad8d-4516-bbee-e2a50a3aab17" name="Changes" comment="HWT 13082024">
+      <change beforePath="$PROJECT_DIR$/../PyATB4xHomeWorkTask/src/hwt_13082024/task002.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PyATB4xHomeWorkTask/src/hwt_13082024/task002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +80,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Lab001">
+  <component name="RunManager">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
@@ -177,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725124262377</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HWT 13082024">
+      <option name="closed" value="true" />
+      <created>1725124865966</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725124865966</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +206,8 @@
     <MESSAGE value="Lab002 Added" />
     <MESSAGE value="All the files for the 10th Aug 2024 are added" />
     <MESSAGE value="excercise 13082024" />
-    <option name="LAST_COMMIT_MESSAGE" value="excercise 13082024" />
+    <MESSAGE value="HWT 13082024" />
+    <option name="LAST_COMMIT_MESSAGE" value="HWT 13082024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
