@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66943832-ad8d-4516-bbee-e2a50a3aab17" name="Changes" comment="modified task002">
+    <list default="true" id="66943832-ad8d-4516-bbee-e2a50a3aab17" name="Changes" comment="All the files 17082024">
       <change beforePath="$PROJECT_DIR$/../PyATB4xHomeWorkTask/src/hwt_13082024/task002.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PyATB4xHomeWorkTask/src/hwt_13082024/task002.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -21,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../PyATB4xHomeWorkTask" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -85,6 +85,10 @@
     "Python.Lab036.executor": "Run",
     "Python.task001.executor": "Run",
     "Python.task002.executor": "Run",
+    "Python.task003.executor": "Run",
+    "Python.task004.executor": "Run",
+    "Python.task005.executor": "Run",
+    "Python.task006.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "vcs.Git"
@@ -206,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725125437356</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="All the files 17082024">
+      <option name="closed" value="true" />
+      <created>1725164079437</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725164079437</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +238,8 @@
     <MESSAGE value="excercise 13082024" />
     <MESSAGE value="HWT 13082024" />
     <MESSAGE value="modified task002" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified task002" />
+    <MESSAGE value="All the files 17082024" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the files 17082024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
